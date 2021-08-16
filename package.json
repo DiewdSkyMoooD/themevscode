@@ -17,5 +17,16 @@
                 "path": "./themes/DSMDTheme-color-theme.json"
             }
         ]
-    }
+    },
+    "icon": "icons/",
+    "author": {
+        "name": "César Carranza Hernández",
+        "email": "cesar5807@hotmail.com",
+        "url": "https://www.linkedin.com/in/cesar-carranza-hernandez/"
+    },
+    "repository": {
+        "url": "https://github.com/DiewdSkyMoooD/themevscode.git",
+        "type": "git"
+    },
+    "publisher": "code"
 }
