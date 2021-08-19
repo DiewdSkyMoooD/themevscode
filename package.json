@@ -1,6 +1,6 @@
 {
-    "name": "dsmdtheme",
-    "displayName": "DSMDTheme",
+    "name": "diewdskymoood",
+    "displayName": "DiewdSkyMoooD",
     "description": "",
     "version": "0.0.1",
     "engines": {
@@ -12,9 +12,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "DSMDTheme",
+                "label": "DiewdSkyMoooD",
                 "uiTheme": "vs-dark",
-                "path": "./themes/DSMDTheme-color-theme.json"
+                "path": "./themes/DiewdSkyMoooD-color-theme.json"
             }
         ]
     },
@@ -28,5 +28,5 @@
         "url": "https://github.com/DiewdSkyMoooD/themevscode.git",
         "type": "git"
     },
-    "publisher": "code"
+    "publisher": "DiewdSkyMoooD"
 }
