@@ -1,6 +1,6 @@
 # DiewdSkyMoooD Theme
 
-*This extension for Visual Studio Code adds themes titled "DiewdSkyMoooD".Theme inspirate in cool colors*
+*This extension for Visual Studio Code adds themes titled "DiewdSkyMoooD". Theme inspirate in cool colors*
 
 ## Screenshots
 
