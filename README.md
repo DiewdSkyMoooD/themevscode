@@ -4,11 +4,12 @@
 
 ## Screenshots
 
-![React DiewdSkyMoooD](https://github.com/DiewdSkyMoooD/themevscode/tree/main/images/REact.png)
+![React DiewdSkyMoooD](https://raw.githubusercontent.com/DiewdSkyMoooD/themevscode/main/images/React.png)
 
-![Nodejs DiewdSkyMoooD](https://github.com/DiewdSkyMoooD/themevscode/tree/main/images/Nodejs.png)
+![Nodejs DiewdSkyMoooD](https://raw.githubusercontent.com/DiewdSkyMoooD/themevscode/main/images/Nodejs.png)
 
-![Html DiewdSkyMoooD](https://github.com/DiewdSkyMoooD/themevscode/tree/main/images/Html.png)
+
+![Html DiewdSkyMoooD](https://raw.githubusercontent.com/DiewdSkyMoooD/themevscode/main/images/Html.png)
 
 ## Installation
 
